@@ -125,7 +125,8 @@ while 1:
 ![client-exp1b](https://github.com/user-attachments/assets/94eb8a14-6464-45bd-85ae-82159cf716cf)
 
 ### Server:
-<img width="1195" height="216" alt="Screenshot 2025-09-09 230801" src="https://github.com/user-attachments/assets/b0980286-8b91-4d5c-a4a5-b81d7323afe5" />
+<img width="1535" height="1124" alt="Screenshot 2025-09-09 230938" src="https://github.com/user-attachments/assets/bcd76207-be54-4dd4-aebb-2ebf66fc6bea" />
+
 
 ## Result:
 
